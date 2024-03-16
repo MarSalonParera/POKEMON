@@ -1,0 +1,60 @@
+.index {
+    background-image: url("../img/kanto-map.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Press start 2p';
+}
+
+h1{
+    text-align: center;
+}
+
+.index a {
+    color: white;
+    text-decoration: none;
+}
+
+.index span{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.index libro {
+    width: 30%;
+}
+
+.index img {
+    width: 20%;
+}
+
+
+.cindaquil {
+    background-color: antiquewhite ;
+    font-family: 'Press start 2p';
+}
+
+.cindaquil a {
+ background-color: red;
+ text-decoration: none;
+ padding: 10px;
+ border-radius: 10px;
+ text-align: center;
+color: white;
+}
+
+.cindaquil span {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#enlace {
+    text-align: center;
+}
+
+.cindaquil img {
+    width: 25%;
+}
